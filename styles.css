@@ -35,12 +35,6 @@ body {
     font-weight: bold;
     font-size: 1.2rem;
 }
-#new-task-input:focus{
-    border: none;
-}
-#new-task-input::placeholder {
-
-}
 .add-task-btn {
     width: 17%;
     height: 40px;
